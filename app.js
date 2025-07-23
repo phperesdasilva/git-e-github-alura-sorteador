@@ -1,9 +1,7 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-let numeroLimite = 50;
-=======
+
 let numeroLimite = 10;
->>>>>>> parent of 62ad78c (alterando de 10 para 100 o numero maximo do jogo)
+
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -15,11 +13,7 @@ function exibirTextoNaTela(tag, texto) {
 
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
-<<<<<<< HEAD
-    exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
-=======
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 10');
->>>>>>> parent of 62ad78c (alterando de 10 para 100 o numero maximo do jogo)
 }
 
 exibirMensagemInicial();
@@ -72,8 +66,6 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-
- depois de clonar o repositorio
 
 
 
