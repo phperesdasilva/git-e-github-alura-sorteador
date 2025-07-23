@@ -65,7 +65,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-//teste de commit e push depois de clonar o repositorio
+ depois de clonar o repositorio
 
 
 
