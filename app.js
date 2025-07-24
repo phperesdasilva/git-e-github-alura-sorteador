@@ -66,5 +66,5 @@ function reiniciarJogo() {
 }
 
 //teste de novo branch
-//teste de merge
+//isso esta no teste-branch-novo
 //isso está na main
