@@ -66,3 +66,4 @@ function reiniciarJogo() {
 }
 
 //teste de novo branch
+//teste de merge
