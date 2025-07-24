@@ -69,3 +69,4 @@ function reiniciarJogo() {
 
 
 
+//teste de ingorar
